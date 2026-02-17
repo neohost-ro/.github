@@ -1,8 +1,33 @@
-# 0x6e656f686f73742e726f  // neohost.ro
+# NEOHOST
 
-> NeoHost Romania | neohost.ro  
-> Autonomous System: AS211281  
-> IPv4 / IPv6 Native • Anycast Ready • Multi-Homed
+> AS211281  
+> IPv4 / IPv6 Native • Multi-Homed • Anycast Capable  
+> Presence: NXDATA-1
 
-NeoHost operates fully self-managed infrastructure —  
-from ASN-level routing and IX participation to clustered compute and production hosting environments.
+Self-managed infrastructure from BGP routing to clustered compute.
+
+---
+
+## Network
+
+```
+BGP (eBGP / iBGP)
+3 Upstream Providers
+IX Participation
+RPKI Validation
+BIRD | MikroTik | JunOS
+```
+
+---
+
+## Infrastructure
+
+```
+10G Aggregation Switching
+Redundant Power & Cooling
+Proxmox HA Clusters
+Enterprise NVMe (RAID)
+Custom XDP Filtering
+```
+
+Packets → Routing → Compute
