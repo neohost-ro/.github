@@ -2,7 +2,7 @@
 
 > AS211281  
 > IPv4 / IPv6 Native • Multi-Homed • Anycast Capable  
-> Presence: NXDATA-1
+> Presence: NXDATA-1, Bucharest, RO
 
 Self-managed infrastructure from BGP routing to clustered compute.
 
@@ -11,11 +11,11 @@ Self-managed infrastructure from BGP routing to clustered compute.
 ## Network
 
 ```
-BGP (eBGP / iBGP)
-3 Upstream Providers
-IX Participation
-RPKI Validation
-BIRD | MikroTik | JunOS
+- BGP (eBGP / iBGP)
+- 3 Upstream Providers
+- IX Participation
+- RPKI Validation
+- BIRD | EOS | JunOS
 ```
 
 ---
@@ -23,11 +23,9 @@ BIRD | MikroTik | JunOS
 ## Infrastructure
 
 ```
-10G Aggregation Switching
-Redundant Power & Cooling
-Proxmox HA Clusters
-Enterprise NVMe (RAID)
-Custom XDP Filtering
+- 10G Aggregation Switching
+- Redundant Power & Cooling
+- Proxmox HA Clusters
+- Enterprise NVMe (RAID)
+- Custom XDP Filtering
 ```
-
-Packets → Routing → Compute
