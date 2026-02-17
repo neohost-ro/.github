@@ -1,4 +1,4 @@
-# NEOHOST
+# neohost.ro | NeoHost Romania
 
 > AS211281  
 > IPv4 / IPv6 Native • Multi-Homed • Anycast Capable  
